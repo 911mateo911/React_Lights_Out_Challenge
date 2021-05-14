@@ -1,0 +1,11 @@
+.cell {
+  height: 75px;
+  width: 75px;
+  background-color: #263238;
+  border-radius: 1px;
+  transition: background-color 0.7s ease;
+}
+
+.cell-lit {
+  background-color: #00bcd4;
+}
